@@ -1,35 +1,18 @@
-# Task-01: House Price Prediction using Linear Regression
+# Prodigy InfoTech - Machine Learning Internship
 
-This project is part of my Machine Learning Internship with **Prodigy InfoTech**.
+Welcome to my internship projects repository as part of the **Prodigy InfoTech Machine Learning Internship**.
 
-## 📌 Objective
-To build a Linear Regression model that predicts the prices of houses based on:
-- Square footage (`GrLivArea`)
-- Number of bedrooms (`BedroomAbvGr`)
-- Number of bathrooms (`FullBath`)
+## 🔹 Tasks Completed:
 
-## 🛠️ Tools Used
-- Python
-- Pandas
-- scikit-learn
-- Matplotlib
-- Seaborn
+### ✅ [Task-01: House Price Prediction using Linear Regression](./Task-01)
+- Built a Linear Regression model to predict house prices.
 
-## 📊 Results
-The model was trained and tested on the Kaggle "House Prices" dataset.  
-Performance was evaluated using:
-- **Mean Squared Error (MSE)**
-- **R² Score**
-
-## 📁 Dataset Source
-[Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
-## 📌 File
-- `LinearRegression_HousePrices.ipynb` – Main notebook containing the full implementation
-
-## 🚀 About Me
-**John Khamis**  
-Machine Learning Intern at Prodigy InfoTech
+### ✅ [Task-02: Customer Segmentation using K-Means Clustering](./Task-02)
+- Applied K-Means to cluster retail customers based on purchase behavior.
 
 ---
+
+🚀 **About Me**
+John Khamis  
+Machine Learning Intern @ Prodigy InfoTech
 
